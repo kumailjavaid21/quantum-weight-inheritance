@@ -1,0 +1,6 @@
+n_qubits,n_layers,batch_size,time_per_step_s,peak_mem_mb,est_2000_step_hours,feasible,note,gpu
+4,3,32,0.0477,20.3,0.026,True,,Quadro RTX 8000
+6,5,32,0.1014,37.3,0.056,True,,Quadro RTX 8000
+8,7,32,0.2167,153.5,0.12,True,,Quadro RTX 8000
+12,9,32,7.04,3986.0,3.911,True,,Quadro RTX 8000
+16,11,8,28.945,25106.6,16.081,True,OOM at batch 16; halved,Quadro RTX 8000

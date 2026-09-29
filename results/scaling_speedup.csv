@@ -1,0 +1,5 @@
+n_qubits,n_layers,from_scratch_steps,from_scratch_converged,from_scratch_final_loss,from_scratch_best_loss,from_scratch_wall_s,morphism_steps,morphism_attempted,morphism_converged,morphism_final_loss,morphism_wall_s,speedup_ratio,target_loss,from_scratch_budget,morphism_budget
+4,3,,False,0.048879,0.048879,104.9,,False,False,,,,0.048654,2000,200
+6,5,1460,True,0.048652,0.048652,173.6,,True,False,0.048769,33.7,,0.048654,2000,200
+8,7,,False,0.04868,0.048679,525.9,,True,False,0.048684,81.4,,0.048654,2000,200
+12,9,1320,True,0.04865,0.04865,7460.6,70,True,True,0.048653,794.5,18.86,0.048654,2000,200

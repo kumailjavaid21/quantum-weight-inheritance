@@ -1,0 +1,5 @@
+growth_step,n_parent,n_child,L_parent,L_child,added_cry,inherited_cry,total_cry_in_child,eq8_predicted_added_cry,eq8_matches_edge_list,total_rotations,inherited_rotations,total_parameters,inherited_parameters,inherited_fraction
+4->6,4,6,3,5,21,0,21,21,True,90,36,111,36,0.3243
+6->8,6,8,5,7,31,21,52,31,True,168,90,220,111,0.5045
+8->12,8,12,7,9,59,52,111,59,True,324,168,435,220,0.5057
+12->16,12,16,9,11,77,111,188,77,True,528,324,716,435,0.6075

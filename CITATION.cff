@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite the following."
+authors:
+  - family-names: "Jazeb"
+    given-names: "Muhammad Noman"
+  - family-names: "Iqbal"
+    given-names: "Muhammad Waseem"
+  - family-names: "Ali"
+    given-names: "Usman"
+  - family-names: "Aslam"
+    given-names: "Sheraz"
+  - family-names: "Ashraf"
+    given-names: "Nouman"
+  - family-names: "Khan"
+    given-names: "Sajawal ur Rehman"
+  - family-names: "Javaid"
+    given-names: "Kumail"
+title: "Exact Qubit-Count Morphism for Scalable Quantum Machine Learning"
+version: 1.0.0
+date-released: "2026-09-28"
+license: MIT

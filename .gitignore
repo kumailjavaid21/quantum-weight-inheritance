@@ -1,0 +1,29 @@
+# Manuscript (not part of repo)
+*.tex
+*.bib
+paper/
+manuscript/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Environment
+.venv/
+venv/
+.env
+
+# Large artifacts
+checkpoints/*.pt
+checkpoints/*.pth
+checkpoints/*.ckpt
+data/raw/
+data/processed/
+
+# System
+.DS_Store
+Thumbs.db
+*.swp

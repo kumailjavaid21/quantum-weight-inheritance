@@ -1,0 +1,6 @@
+run,model,initialisation,initial_test_loss,final_test_loss,best_test_loss,grad_norm_at_expansion,wall_clock_s
+model1,From scratch (8q/7L),scratch,0.156123,0.048654,0.048654,0.2961,820.0
+model2,"Grown, random init of new components",random,0.06378,0.048103,0.048103,0.068549,785.6
+model3,"Grown, exact morphism",morphism,0.048922,0.048085,0.048085,0.010079,1032.8
+model4fix_stepA,"Chained morphism, step 1 (4->6)",chained,0.048922,0.048144,0.048144,0.009706,258.8
+model4fix_stepB,"Chained morphism, step 2 (6->8)",chained,0.048144,0.047748,0.047729,0.011051,619.4
